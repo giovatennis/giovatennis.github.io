@@ -227,16 +227,20 @@ aside{
 #nav_menu ul ul li { 
     float: none; 
     position: relative;
+     
    
 }
 
 #nav_menu ul li:hover > ul {
     display: block;
-    
+    margin-left:440px;
+    margin-right:200px;
+    margin-top:10px;
 }
 
 #nav_menu ul ul li a{ 
     padding: 10px;
     display:block;
+   
     
 }
