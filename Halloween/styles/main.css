@@ -202,7 +202,6 @@ aside{
 #nav_menu ul li a{
     text-decoration: none;
     color:ghostwhite;
-    margin:-12px;
     padding-top:10px;
     padding-left:42px;
     padding-bottom:11px;
@@ -233,7 +232,7 @@ aside{
 
 #nav_menu ul li:hover > ul {
     display: block;
-    margin-left:440px;
+    
 }
 
 #nav_menu ul ul li a{ 
