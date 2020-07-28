@@ -209,10 +209,26 @@ var calculation = function() {
     
 }
 
+var empty = function(){
+    
+    $("course_1_ch").value = "";
+    $("course_1_lg").value = "";
+    $("course_2_ch").value = "";
+    $("course_2_lg").value = "";
+    $("course_3_ch").value = "";
+    $("course_3_lg").value = "";
+    $("course_4_ch").value = "";
+    $("course_4_lg").value = "";
+    $("course_5_ch").value = "";
+    $("course_5_lg").value = "";
+    $("avg_gpa").value = "";
+}
+
 window.onload = function() {
     
     $("course_1_ch").focus();
     $("submit").onclick = calculation;
+    $("reset").onclick = empty;
     //reset button everything blank
     
 }
