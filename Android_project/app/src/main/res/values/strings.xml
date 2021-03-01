@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HTTPDemo</string>
+    <string name="btn_submit">Submit</string>
+    <string name="enter_your_input">Enter your input in the following format: title,type,year</string>
+    <string name="imdb_search_app">IMDb Search App</string>
+    <string name="enter_your_input_in_the_following_format_title_type_year">Enter your input in the following format: title,type,year</string>
+</resources>

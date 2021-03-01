@@ -1,0 +1,150 @@
+html {
+    background-color: grey;    
+}
+body {
+    margin-top: 0;
+    font-family: Gill Sans, sans-serif;
+    font-size:120%;
+    width: 760px;
+    height:400px;
+    margin: 0 auto;
+    background-color: darkturquoise;
+    border: 1px solid #001963;
+    padding: 0px;
+    
+}
+
+
+header h1 {
+    font-family: marker-felt,fantasy;
+    color: black;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+body h1 {
+    font-family: marker-felt,fantasy;
+    font-size:180%;
+    margin-left:30px;
+    
+}
+
+.pad{
+    margin-bottom:10px;
+    margin-left:30px;
+    
+}
+
+.lefted1{
+    margin-left:40px;
+}
+
+.lefted2{
+    margin-left:10px;
+    margin-bottom:15px;
+}
+
+
+.right{
+    
+    float:right;
+    margin-right: 10px;
+    margin-top:0px;
+    
+   
+}
+.submit_button{
+    
+    float:right;
+    margin-right: 10px;   
+    font-family: Gill Sans, sans-serif;
+    font-size:120%;
+    margin-top:10px;
+    margin-left:180px;
+}
+
+.profile{
+    font-family: marker-felt,fantasy;
+    font-size:180%;
+    margin-left:20px;
+    margin-top: 0px;
+    text-decoration: none;
+    
+    
+}
+
+a:hover{
+    color: yellow;
+    text-decoration: none;
+}
+
+.all{
+    margin-top:10px;
+    margin-left:10px;
+    
+}
+.all1{
+    margin-left:10px;  
+    text-decoration: none;
+    
+}
+
+.spec{
+    text-decoration: none;
+    margin-left:10px;
+}
+
+a{
+    font-family: marker-felt,fantasy;
+    font-size:140%;
+    text-decoration: none;
+    margin-left:30px;
+    margin-top:10px;
+}
+
+.adjust{
+    
+    margin-left: 20px;
+    margin-right:20px;
+}
+
+img{
+    margin-left:90px;
+}
+
+.copyright{
+    float: right;
+    
+}
+footer{
+    height:60px;
+    margin-top:40px;
+    border-top: 2px solid black;
+    border-bottom: 1px solid black;
+    background:darkcyan;
+}
+
+.righted{
+    margin-left:60px;
+}
+
+body h1{
+    margin-left:60px;
+}
+
+header{
+    margin-bottom:10px;
+}
+
+.text1{
+   margin-left:53px; 
+}
+
+.text2{
+    margin-left:5px;
+}
+
+.text3{
+    margin-left:55px;
+}
