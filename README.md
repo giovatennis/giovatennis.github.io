@@ -10,11 +10,14 @@ Link for the halloween project: https://giovatennis.github.io/Halloween/products
 
 2) Class Project:
 
-Final Project for my Front Web Development course. Developed a website that simulates one of a Computer Science Department at a univerisity. It uses HTML, CSS, 
-
+Final Project for my Front Web Development course. Developed a website that simulates one of a Computer Science Department at a univerisity. It uses HTML, CSS, and javascript (for implementing a GPA calculator).
 
 Link for Class Project: https://giovatennis.github.io/Class%20Project/home.html
 
-Android Project: made on android studio 
+3) Android Project
+
+Final Project for my Mobile Computing course. It is programmed in java, 
+
+
 
 back end project: made on apache and sql workbench
