@@ -4,7 +4,7 @@ Here are some projects that I developed on my own during my undergraduate degree
 
 1) Blackjack game Project:
 
-Blackjack game developed in Unity using C#. It acts as a 2D game, where the user plays against the dealer with the same rules as the traditional casino game. Files are too big to develop in github, so here is a google drive link for it instead: https://drive.google.com/file/d/1mra9jTlKnBGJydOOsox1L7lBZdbAm0sV/view?usp=sharing 
+Blackjack game developed in Unity using C#. It acts as a 2D game, where the user plays against the dealer with the same rules as the traditional casino game. Files are too big to upload in github, so here is a google drive link for it instead: https://drive.google.com/file/d/1mra9jTlKnBGJydOOsox1L7lBZdbAm0sV/view?usp=sharing 
 
 2) Halloween Project:
 
