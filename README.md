@@ -20,12 +20,12 @@ Link for Class Project: https://giovatennis.github.io/Class%20Project/home.html
 
 4) Android Project
 
-Final Project for my Mobile Computing course. It is programmed in java and intended for an android device (developed in android studio). It asks for an input (title of the movie/show, what type ex. movie/series/short,etc, year it released). After the input, the application navigates to the IMDb website and outputs to the screen several information about the requested movie/show. 
+Final Project for my Mobile Computing course. It is programmed in java and intended for an android device (developed in android studio). It asks for an input (title of the movie/show, what type is it (ex. movie/series/short/episode,etc.), year of release). After the input, the application navigates to the IMDb website and outputs to the screen several information about the requested movie/show. 
 
 5) Back End Project
 
-My first elaborated website with Front and Back end design. It was my final Project for my Back End Web Development course. It is programmed with HTML, CSS, Php and mySql database server. It is a university website from the perspective of a student account. It starts with a log in page that requests a username and password (can create a user if you dont have an account yet), then several options are presented. You can view the classes you are enrolled in, and add/drop more courses. You can look at the instructors in the university and which courses they teach. All of these information is obtained from several queries from the database server which is showed instantly on the website.
+My first elaborated website using Front and Back-end design. It is programmed with HTML, CSS, Php and mySql database server. It is a university website from the perspective of a student account. It starts with a log in page that requests a username and password (can create a user if you dont have an account yet), then several options are presented. You can view the classes you are enrolled in, and add/drop more courses. You can look at the instructors in the university and which courses they teach. All of these information is obtained from several queries from the database server which is showed instantly on the website.
 
 6) Car Game
 
-Final Project for my Computer Graphics course. It is programmed in C++ and implemented for an OpenGL application. Every model in the game is created from scratch, and acts as a 3D racing game that checks for collisions in every obstacle and keeps track of a score until the final goal is reached.
+Final Project for my Computer Graphics course. It is programmed in C++ and implemented for an OpenGL application. In the program every model is created from scratch, and acts as a 3D racing game that checks for collisions in every obstacle and keeps track of a score until the final goal is reached.
