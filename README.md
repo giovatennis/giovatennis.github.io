@@ -8,7 +8,7 @@ Blackjack game developed in Unity using C#. It acts as a 2D game, where the user
 
 2) Halloween Project:
 
-My first simple website, developed using HTML, CSS. Not fully developed since it was created for the purpose of understanding the basics of front-end design.
+My first simple website, developed using HTML, CSS. Not extremely elaborated since it was created for the purpose of understanding the basics of front-end design.
 
 Link for the halloween project: https://giovatennis.github.io/Halloween/products/product_list.html#
 
