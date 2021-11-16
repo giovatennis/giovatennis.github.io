@@ -24,7 +24,7 @@ Final Project for my Mobile Computing course. It is programmed in java and inten
 
 5) Back End Project
 
-My first elaborated website using Front and Back-end design. It is programmed with HTML, CSS, Php and mySql database server. It is a university website from the perspective of a student account. It starts with a log in page that requests a username and password (can create a user if you dont have an account yet), then several options are presented. You can view the classes you are enrolled in, and add/drop more courses. You can look at the instructors in the university and which courses they teach. All of these information is obtained from several queries from the database server which is showed instantly on the website.
+My first elaborated website using Front and Back-end design. It is programmed with HTML, CSS, Php and mySql database server. It is a university website from the perspective of a student account. It starts with a log in page that requests a username and password (can create a user if you dont have an account yet), then several options are presented. You can view the classes you are enrolled in, and add/drop more courses. You can look at the instructors in the university and which courses they teach. All of these information are obtained from several queries from the database server which is showed instantly on the website.
 
 6) Car Game
 
