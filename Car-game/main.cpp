@@ -533,70 +533,7 @@ void collisionchecker() {
         pauseMotion = true;
         text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
     }
-    /*
-     if ((ac == (642 + 2) || ac == (72 + 3) || ac == (72 + 4) || ac == (72 + 5) || ac == (72 + 6) || ac == (72 + 7) ||
-     ac == (72 + 8) || ac == (72 + 9) || ac == (72 + 10) || ac == (72 + 11) || ac == (72 + 12)
-     || ac == (72 + 13) || ac == (72 + 14) || ac == (72 + 15) || ac == (72 + 16) || ac == (72 + 17)) && rightarrow == true) {
-     
-     pauseMotion = true;
-     text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
-     }
-     if ((ac == (551 + 2) || ac == (72 + 3) || ac == (72 + 4) || ac == (72 + 5) || ac == (72 + 6) || ac == (72 + 7) ||
-     ac == (72 + 8) || ac == (72 + 9) || ac == (72 + 10) || ac == (72 + 11) || ac == (72 + 12)
-     || ac == (72 + 13) || ac == (72 + 14) || ac == (72 + 15) || ac == (72 + 16) || ac == (72 + 17)) && rightarrow == true) {
-     
-     pauseMotion = true;
-     text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
-     }
-     if ((ac == (982 + 2) || ac == (72 + 3) || ac == (72 + 4) || ac == (72 + 5) || ac == (72 + 6) || ac == (72 + 7) ||
-     ac == (72 + 8) || ac == (72 + 9) || ac == (72 + 10) || ac == (72 + 11) || ac == (72 + 12)
-     || ac == (72 + 13) || ac == (72 + 14) || ac == (72 + 15) || ac == (72 + 16) || ac == (72 + 17)) && rightarrow == true) {
-     
-     pauseMotion = true;
-     text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
-     }
-     if ((ac == (1084 + 2) || ac == (72 + 3) || ac == (72 + 4) || ac == (72 + 5) || ac == (72 + 6) || ac == (72 + 7) ||
-     ac == (72 + 8) || ac == (72 + 9) || ac == (72 + 10) || ac == (72 + 11) || ac == (72 + 12)
-     || ac == (72 + 13) || ac == (72 + 14) || ac == (72 + 15) || ac == (72 + 16) || ac == (72 + 17)) && rightarrow == true) {
-     
-     pauseMotion = true;
-     text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
-     }
-     if ((ac == (1305 + 2) || ac == (72 + 3) || ac == (72 + 4) || ac == (72 + 5) || ac == (72 + 6) || ac == (72 + 7) ||
-     ac == (72 + 8) || ac == (72 + 9) || ac == (72 + 10) || ac == (72 + 11) || ac == (72 + 12)
-     || ac == (72 + 13) || ac == (72 + 14) || ac == (72 + 15) || ac == (72 + 16) || ac == (72 + 17)) && rightarrow == true) {
-     
-     pauseMotion = true;
-     text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
-     }
-     if ((ac == (1463 + 2) || ac == (72 + 3) || ac == (72 + 4) || ac == (72 + 5) || ac == (72 + 6) || ac == (72 + 7) ||
-     ac == (72 + 8) || ac == (72 + 9) || ac == (72 + 10) || ac == (72 + 11) || ac == (72 + 12)
-     || ac == (72 + 13) || ac == (72 + 14) || ac == (72 + 15) || ac == (72 + 16) || ac == (72 + 17)) && rightarrow == true) {
-     
-     pauseMotion = true;
-     text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
-     }
-     if ((ac == (1760 + 2) || ac == (72 + 3) || ac == (72 + 4) || ac == (72 + 5) || ac == (72 + 6) || ac == (72 + 7) ||
-     ac == (72 + 8) || ac == (72 + 9) || ac == (72 + 10) || ac == (72 + 11) || ac == (72 + 12)
-     || ac == (72 + 13) || ac == (72 + 14) || ac == (72 + 15) || ac == (72 + 16) || ac == (72 + 17)) && rightarrow == true) {
-     
-     pauseMotion = true;
-     text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
-     }
-     if ((ac == (1924 + 2) || ac == (72 + 3) || ac == (72 + 4) || ac == (72 + 5) || ac == (72 + 6) || ac == (72 + 7) ||
-     ac == (72 + 8) || ac == (72 + 9) || ac == (72 + 10) || ac == (72 + 11) || ac == (72 + 12)
-     || ac == (72 + 13) || ac == (72 + 14) || ac == (72 + 15) || ac == (72 + 16) || ac == (72 + 17)) && rightarrow == true) {
-     
-     pauseMotion = true;
-     text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
-     }
-     if ((ac == (1960 + 2) || ac == (72 + 3) || ac == (72 + 4) || ac == (72 + 5) || ac == (72 + 6) || ac == (72 + 7) ||
-     ac == (72 + 8) || ac == (72 + 9) || ac == (72 + 10) || ac == (72 + 11) || ac == (72 + 12)
-     || ac == (72 + 13) || ac == (72 + 14) || ac == (72 + 15) || ac == (72 + 16) || ac == (72 + 17)) && rightarrow == true) {
-     
-     pauseMotion = true;
-     text2(GLUT_BITMAP_TIMES_ROMAN_24, "YOU LOSE!");
-     }*/
+   
 }
 
 // Drawing routine.
@@ -733,16 +670,9 @@ void resize(int w, int h) {
     glViewport(0, 0, w, h);
     
     glMatrixMode(GL_PROJECTION);
-    //glLoadIdentity();
-    
-    //glOrtho(0.0, 100.0, 0.0, 100.0, -1.0, 1.0);
+   
     glFrustum(-5.0, 5.0, -5.0, 5.0, 5.0, 100.0);
-    //glPushMatrix();
-    //scoreNumber(score);
-    //textScore(GLUT_BITMAP_TIMES_ROMAN_24, "SCORE:");
-    //glOrtho(0.0, 100.0, 0.0, 100.0, -1.0, 1.0);
-    //glMatrixMode(GL_MODELVIEW);
-    //glPopMatrix();
+
     glMatrixMode(GL_MODELVIEW);
 }
 
