@@ -42,3 +42,7 @@ My first elaborated website using Front and Back-end design. It is programmed wi
 6) Car Game
 
 Final Project for my Computer Graphics course. It is programmed in C++ and implemented for an OpenGL application. In the program every model is created from scratch, and acts as a 3D racing game that checks for collisions in every obstacle and keeps track of a score until the final goal is reached.
+
+![HW2 cpp 11_17_2021 4_46_41 AM](https://user-images.githubusercontent.com/67833118/142186509-37d4dfc0-a1cc-4194-bb0f-b70e6fe60ab4.png)
+![HW2 cpp 11_17_2021 4_44_55 AM](https://user-images.githubusercontent.com/67833118/142186517-fca95d15-1f66-45ad-acf5-2f5bc3184d72.png)
+
