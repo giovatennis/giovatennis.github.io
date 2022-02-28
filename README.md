@@ -8,15 +8,7 @@ Blackjack game developed in Unity using C#. It acts as a 2D game, where the user
 
 ![Blackjack project - SampleScene - PC, Mac   Linux Standalone - Unity 2020 3 16f1 Personal _DX11_ 11_17_2021 2_19_56 AM](https://user-images.githubusercontent.com/67833118/142162203-8e0997fd-8d03-42a6-93d4-2c58eb757dbd.png)
 
-
-2) Android Project
-
-Final Project for my Mobile Computing course. It is programmed in java and intended for an android mobile device (developed in android studio). It asks for an input (title, what type is it (ex. movie/series/short/episode,etc.), year of release). After the input, the user submits the request and the application navigates to the IMDb website, which then outputs to the screen some information about the requested title. 
-
-![Android Emulator - Pixel_3_API_24_5554 11_17_2021 2_05_10 AM](https://user-images.githubusercontent.com/67833118/142160642-29a3c961-5cd7-4b82-b0e5-22e20695df01.png)
-![Android Emulator - Pixel_3_API_24_5554 11_17_2021 2_05_46 AM](https://user-images.githubusercontent.com/67833118/142160675-fe67d1f9-b1e2-4f01-9326-4f23b87cea25.png)
-
-3) Back End Project
+2) Back End Project
 
 My first elaborated website using Front and Back-end design. It is programmed with HTML, CSS, Php and mySql database server. It is a university website from the perspective of a student account. It starts with a log in page that requests a username and password (can create a user if you dont have an account yet), then several options are presented. You can view the classes you are enrolled in, and add/drop more courses. You can look at the instructors in the university and which courses they teach. All of these information are obtained from several queries from the database server which is showed instantly on the website.
 
@@ -25,6 +17,13 @@ My first elaborated website using Front and Back-end design. It is programmed wi
 ![Wesleyan University - Personal - Microsoft​ Edge 11_17_2021 2_41_31 AM](https://user-images.githubusercontent.com/67833118/142166453-a97dfd35-4620-4801-805b-976b003aca9a.png)
 ![Wesleyan University - Personal - Microsoft​ Edge 11_17_2021 2_39_15 AM](https://user-images.githubusercontent.com/67833118/142166230-e21f6a54-9071-4f09-9e62-ba9220c61d32.png)
 
+
+3) Android Project
+
+Final Project for my Mobile Computing course. It is programmed in java and intended for an android mobile device (developed in android studio). It asks for an input (title, what type is it (ex. movie/series/short/episode,etc.), year of release). After the input, the user submits the request and the application navigates to the IMDb website, which then outputs to the screen some information about the requested title. 
+
+![Android Emulator - Pixel_3_API_24_5554 11_17_2021 2_05_10 AM](https://user-images.githubusercontent.com/67833118/142160642-29a3c961-5cd7-4b82-b0e5-22e20695df01.png)
+![Android Emulator - Pixel_3_API_24_5554 11_17_2021 2_05_46 AM](https://user-images.githubusercontent.com/67833118/142160675-fe67d1f9-b1e2-4f01-9326-4f23b87cea25.png)
 
 
 4) Car Game
