@@ -39,6 +39,9 @@ My first simple website, developed using HTML, CSS. Not extremely elaborated sin
 
 Click link to enter the website: https://giovatennis.github.io/Halloween/products/product_list.html#
 
+![Screen Shot 2022-05-24 at 10 38 12 AM](https://user-images.githubusercontent.com/67833118/170076927-2e17b70f-a18f-445c-ba57-e1fcc42b981d.png)
+
+
 6) Class Project:
 
 Final Project for my Front Web Development course. Developed a fully functional website that simulates one of a Computer Science Department at a univerisity. It uses HTML, CSS, and javascript (for implementing a GPA calculator).
