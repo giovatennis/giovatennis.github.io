@@ -35,7 +35,7 @@ Final Project for my Computer Graphics course. It is programmed in C++ and imple
 
 5) Halloween Project:
 
-My first simple website, developed using HTML, CSS. Not extremely elaborated since it was created for the purpose of understanding the basics of front-end design.
+My first simple website, developed using HTML, CSS. Utilizes front-end design, and consists on a halloween store webpage where users can look at products with their respective prices.
 
 Click link to enter the website: https://giovatennis.github.io/Halloween/products/product_list.html#
 
