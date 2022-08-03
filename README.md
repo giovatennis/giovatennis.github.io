@@ -10,7 +10,7 @@ Blackjack game developed in Unity using C#. It acts as a 2D game, where the user
 
 2) Back End Project
 
-My first website using Front and Back-end design, programmed with HTML, CSS, Php and mySql database server. It is an university's website from the perspective of a student user. It starts with a log in page that requests a username and password (can create a user if you dont have an account yet), then several options are presented: You can view the classes you are enrolled in, and add/drop more courses. You can look at the instructors in the university and which courses they teach. All of this information is obtained from several queries from the database server which are shown instantly on the website.
+My first website using Front and Back-end design, programmed with HTML, CSS, Php and mySql database server. It is an university's website from the perspective of a student user. It starts with a log in page that requests a username and password (can create a user if you dont have an account yet), then several options are presented: You can view the classes you are enrolled in, and add/drop more courses. You can look at the instructors in the university and see which courses they teach. All this information is obtained from several queries from the database server which is shown instantly on the website.
 
 ![Wesleyan University - Personal - Microsoft​ Edge 11_17_2021 2_38_38 AM](https://user-images.githubusercontent.com/67833118/142166212-4ddeb238-8415-46c7-8c02-387035bc027a.png)
 ![Wesleyan University - Personal - Microsoft​ Edge 11_17_2021 2_38_47 AM](https://user-images.githubusercontent.com/67833118/142166221-65cc4d7b-5b92-4fca-91d9-b849837c1bbd.png)
@@ -20,7 +20,7 @@ My first website using Front and Back-end design, programmed with HTML, CSS, Php
 
 3) Android Project
 
-Final Project for my Mobile Computing course, programmed in java and intended for an android mobile device (developed in android studio). It asks for an input (title, what type is it (ex. movie/series/short/episode,etc.), year of release). After the input, the user submits the request and the application navigates to the IMDb website, which then outputs to the screen some information about the requested title. 
+Final Project for my Mobile Computing course, programmed in java and intended for an android mobile device (developed in android studio). It asks for an input (name of the title, what type of title it is (ex. movie/series/short/episode,etc.), year of release). After the user submits the input, the application navigates to the IMDb website and outputs to the screen some information about the requested title. 
 
 ![Android Emulator - Pixel_3_API_24_5554 11_17_2021 2_05_10 AM](https://user-images.githubusercontent.com/67833118/142160642-29a3c961-5cd7-4b82-b0e5-22e20695df01.png)
 ![Android Emulator - Pixel_3_API_24_5554 11_17_2021 2_05_46 AM](https://user-images.githubusercontent.com/67833118/142160675-fe67d1f9-b1e2-4f01-9326-4f23b87cea25.png)
